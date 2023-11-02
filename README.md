@@ -1,2 +1,2 @@
-# Godot-2D-Game
-Contains two test games made in the Godot Engine.
+# Dodge the Creeps
+2D Test game made in the Godot Engine 
